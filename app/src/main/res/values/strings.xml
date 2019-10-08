@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="Label1">Suskaiciavau</string>
+    <string name="Label2">0</string>
+    <string name="MainText">Iveskite teksta</string>
+    <string name="CountingButton">Skaiciuoti</string>
+
+    <string-array name="Items">
+    <item>Zodziai</item>
+    <item>Simboliai</item>
+</string-array>
+
+</resources>
